@@ -38,7 +38,7 @@ The project moves beyond descriptive statistics to apply rigorous hypothesis tes
 * `presentation/`: Full project summary and slides (PDF).
 
 ## 💾 Data Sources
-The raw data was sourced from the **Kaggle "120 years of Olympic history: athletes and results"** and the **World GDP by Country: 1960-2022**. Custom subsets and cleaning scripts were used to generate the era-specific data for the comparative analysis.
+The raw data was sourced from the **Kaggle "120 years of Olympic history: athletes and results"** and the **"World GDP by Country: 1960-2022"**. Custom subsets and cleaning scripts were used to generate the era-specific data for the comparative analysis.
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
